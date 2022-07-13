@@ -1,0 +1,10 @@
+What is your talent?
+
+Ans: Problem Solving, Adaption to changes, Good listening skill, Organization, Patience
+
+What convention does this repo commit message missed (imperative)
+
+Ans: 
+    1. Not Descriptive on what content is added.
+    2. Two commits having the same message.
+
