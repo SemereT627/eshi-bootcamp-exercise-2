@@ -2,7 +2,6 @@ What is your talent?
 What convention does this repo commit message missed (imperative)
 
 You can write your answer below.
-The description is not descriptive enough for the work which is done. It should describe which type of content is added and also the feature
 
 
 1) Creativity
